@@ -8,6 +8,34 @@
     <artifactId>risedb</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <name>RiseDB</name>
+    <description>RiseDB - an distributed in-memory K/V store</description>
+
+    <organization>
+        <name>Rexhaif XYZ Ltd.</name>
+        <url>http://rexhaif.xyz/</url>
+    </organization>
+
+    <developers>
+        <developer>
+            <name>Daniil (Rexhaif) Larionov</name>
+            <organization>Rexhaif XYZ Ltd.</organization>
+            <email>rexhaif.io@gmail.com</email>
+            <roles>
+                <role>
+                    Owner
+                </role>
+            </roles>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>Apache 2.0 License</name>
+            <url>https://raw.githubusercontent.com/Rexhaif/RiseDB/dev/LICENSE.md</url>
+        </license>
+    </licenses>
+
     <build>
         <plugins>
             <plugin>
